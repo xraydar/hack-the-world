@@ -1,7 +1,4 @@
 import os
 os.system("clear")
-Print("loiding...........")
-Print("loiding................")
-Print("loiding......................")
-Print("hello xraydar")
-Print("u haked the world congratulations by xraydar")
+print("loiding.......")
+
